@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Wed, 27 Dec 2017 07:29:59 +0000
+Source: node-pretty-hrtime
+Binary: node-pretty-hrtime
+Architecture: source all
+Version: 1.0.3-4
+Distribution: unstable
+Urgency: low
+Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Changed-By: smidhunraj <smidhunraj@gmail.com>
+Description:
+ node-pretty-hrtime - write the Debian package description
+Closes: 885583
+Changes:
+ node-pretty-hrtime (1.0.3-4) unstable; urgency=low
+ .
+   * Initial release (Closes: 885583)
+Checksums-Sha1:
+ b0994702d49d27069c1d32e86f0bf7d855a0ee8f 1214 node-pretty-hrtime_1.0.3-4.dsc
+ b7e3ea42435a4c9b2759d99e0f201eb195802ee1 2671 node-pretty-hrtime_1.0.3.orig.tar.gz
+ 359d0cfa9c0cc52fad28e3c6ebe0145a50d322b7 2504 node-pretty-hrtime_1.0.3-4.debian.tar.xz
+ b19f8001f6fb9e04b131a4a93e94b0ea49e6a940 4324 node-pretty-hrtime_1.0.3-4_all.deb
+ e22943eb5fe197fd2aaa9178583ab46cb5907cd6 4949 node-pretty-hrtime_1.0.3-4_i386.buildinfo
+Checksums-Sha256:
+ 657997f2bdaaea187e40c03dc31dd9247334e6b28caba121344d578ac0731455 1214 node-pretty-hrtime_1.0.3-4.dsc
+ fe1acd5c3d4039669a1516ea12d9f99b187ff5fc55128e151b375d7fb9dc38b2 2671 node-pretty-hrtime_1.0.3.orig.tar.gz
+ 67fe2cc68f6da90a6d0d073f9e9f68959529cb27a48c4043bf895b2accf80d70 2504 node-pretty-hrtime_1.0.3-4.debian.tar.xz
+ e49eec8aace4da50f71a8b1c2935d48f3f11e9185928bfe2b27cbfd1c0715584 4324 node-pretty-hrtime_1.0.3-4_all.deb
+ b785aa99f9a46535c4e757e9f2bf931fde47b9f40fb9e6a02ded7c73edca03df 4949 node-pretty-hrtime_1.0.3-4_i386.buildinfo
+Files:
+ edcbe6f63acffe7e5804ea76bec29298 1214 javascript optional node-pretty-hrtime_1.0.3-4.dsc
+ ab8842bbafb579ee66a6cf32c6510c5a 2671 javascript optional node-pretty-hrtime_1.0.3.orig.tar.gz
+ cdafbda872d2bd572efdc4c0e6fd8018 2504 javascript optional node-pretty-hrtime_1.0.3-4.debian.tar.xz
+ f990520358c202b58c4f0b2c896dc10e 4324 javascript optional node-pretty-hrtime_1.0.3-4_all.deb
+ 16e8cf9e3e12cdb7d76fe7e0795497ec 4949 javascript optional node-pretty-hrtime_1.0.3-4_i386.buildinfo

@@ -1,0 +1,9 @@
+28910667354ac6a611a788460d8e646b  usr/lib/nodejs/pretty-hrtime/.jshintignore
+2c5a14bb92612207076d60b5fc30c445  usr/lib/nodejs/pretty-hrtime/.npmignore
+d240c6d2cc4602e453d7a83840200351  usr/lib/nodejs/pretty-hrtime/LICENSE
+e69671a777b18a8fb219a04be861ce5a  usr/lib/nodejs/pretty-hrtime/README.md
+1cb5b09f9048f97a25ebe20a2ecc3455  usr/lib/nodejs/pretty-hrtime/index.js
+ed4d6008819ae536beb37e1be131026e  usr/lib/nodejs/pretty-hrtime/package.json
+e69671a777b18a8fb219a04be861ce5a  usr/share/doc/node-pretty-hrtime/README.md
+273b79d2694a21c7d4d6700a441ee7ed  usr/share/doc/node-pretty-hrtime/changelog.Debian.gz
+f814bbddad6cba267f9ab8e32bb166d6  usr/share/doc/node-pretty-hrtime/copyright

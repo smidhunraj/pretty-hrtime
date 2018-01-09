@@ -1,0 +1,23 @@
+version=3
+# It is not recommended use fakeupstream. Please investigate more.
+# Origin url: module.js:557
+    throw err;
+    ^
+
+Error: Cannot find module 'github-url-from-git'
+    at Function.Module._resolveFilename (module.js:555:15)
+    at Function.Module._load (module.js:482:25)
+    at Module.require (module.js:604:17)
+    at require (internal/module.js:11:18)
+    at [eval]:1:13
+    at ContextifyScript.Script.runInThisContext (vm.js:50:33)
+    at Object.runInThisContext (vm.js:152:38)
+    at Object.<anonymous> ([eval]-wrapper:6:22)
+    at Module._compile (module.js:660:30)
+    at evalScript (bootstrap_node.js:475:27)
+# Take a look at https://wiki.debian.org/debian/watch/
+# See also fakeupstream: http://anonscm.debian.org/viewvc/qa/trunk/cgi-bin/fakeupstream.cgi?view=markup
+opts=\
+dversionmangle=s/\+(debian|dfsg|ds|deb)(\.\d+)?$//,\
+filenamemangle=s/.*=// \
+ http://qa.debian.org/cgi-bin/fakeupstream.cgi?upstream=npmjs/pretty-hrtime .*=pretty-hrtime-(\d.*)\.(?:tgz|tar\.(?:gz|bz2|xz))

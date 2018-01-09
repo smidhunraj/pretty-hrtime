@@ -1,0 +1,6 @@
+LICENSE usr/lib/nodejs/pretty-hrtime/
+README.md usr/lib/nodejs/pretty-hrtime/
+package.json usr/lib/nodejs/pretty-hrtime/
+.jshintignore usr/lib/nodejs/pretty-hrtime/
+index.js usr/lib/nodejs/pretty-hrtime/
+.npmignore usr/lib/nodejs/pretty-hrtime/

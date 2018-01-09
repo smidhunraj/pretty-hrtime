@@ -1,0 +1,39 @@
+To: submit@bugs.debian.org
+Subject: ITP: node-pretty-hrtime -- FIX_ME write the Debian package description
+
+Package: wnpp
+Severity: wishlist
+Owner: FIX_ME debian author
+X-Debbugs-CC: debian-devel@lists.debian.org
+
+* Package name    : node-pretty-hrtime
+  Version         : 1.0.3
+  Upstream Author : Rob Richardson (http://robrich.org/)
+* URL             : https://github.com/robrich/pretty-hrtime
+* License         : Expat
+  Programming Lang: JavaScript
+  Description     : FIX_ME write the Debian package description
+
+ FIX_ME: This ITP report is not ready for submission, until you are
+ confident this package description is ready for Debian.
+ .
+ Write the short and long descriptions for the Debian package as
+ explained in the Developer's Reference, §6.2.1 – §6.2.3.
+ .
+ You can start with the short upstream package description,
+ “process.hrtime() to words”.
+ .
+ Be aware that most upstream package descriptions are not written to
+ conform with Debian package guidelines. You need to explain the role
+ of this package for a Debian audience.
+ .
+ Node.js is an event-based server-side JavaScript engine.
+
+FIX_ME: Explain why this package is suitable for adding to Debian. Is
+it a dependency of some other package? What benefit does it provide
+compared to other similar packages already in Debian?
+
+FIX_ME: Explain how you intend to consistently maintain this package
+in Debian. If you are not yet a Debian member, does this package need
+a sponsor? Do you have co-maintainers? Are you a member of the Debian
+JavaScript maintainers team?

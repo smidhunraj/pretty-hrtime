@@ -1,0 +1,37 @@
+Format: 1.8
+Date: Thu, 04 Jan 2018 21:37:15 +0530
+Source: node-pretty-hrtime
+Binary: node-pretty-hrtime
+Architecture: source all
+Version: 1.0.3-1
+Distribution: UNRELEASED
+Urgency: low
+Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Changed-By: smidhunraj <smidhunraj@gmail.com>
+Description:
+ node-pretty-hrtime - FIX_ME write the Debian package description
+Changes:
+ node-pretty-hrtime (1.0.3-1) UNRELEASED; urgency=low
+ .
+   [ smidhunraj  Thu, 04 Jan 2018 21:36:40 +0530 ]
+   * Initial release (Closes: #nnnn)
+ .
+   [ root ]
+Checksums-Sha1:
+ e998965b3db979c5874c52c2a2c759151c920838 1201 node-pretty-hrtime_1.0.3-1.dsc
+ b7e3ea42435a4c9b2759d99e0f201eb195802ee1 2671 node-pretty-hrtime_1.0.3.orig.tar.gz
+ 3dc32067e74c7840a55f8699131bf0fbfdc90c77 2536 node-pretty-hrtime_1.0.3-1.debian.tar.xz
+ ffe6b437a640352cfbce19d471efa3d75a93103c 4364 node-pretty-hrtime_1.0.3-1_all.deb
+ 9155c0904d97fb632a90c9d9f986a70b5465de86 4949 node-pretty-hrtime_1.0.3-1_i386.buildinfo
+Checksums-Sha256:
+ d5eb6af270dd587961850c28eb388427308b58d82653807ca1343e50dabb4f8a 1201 node-pretty-hrtime_1.0.3-1.dsc
+ fe1acd5c3d4039669a1516ea12d9f99b187ff5fc55128e151b375d7fb9dc38b2 2671 node-pretty-hrtime_1.0.3.orig.tar.gz
+ 7298cc4ea34be8c0d17ddb6baa7467c65acf72fc59453ac6a3041b9cc1905cbd 2536 node-pretty-hrtime_1.0.3-1.debian.tar.xz
+ b88f45b2a2ffa018ea9fd4737dfbe4d9408cf7773d316b00be33518f46297710 4364 node-pretty-hrtime_1.0.3-1_all.deb
+ 26bca237056401f3428b1b71f1d050b79b9c75a02d2a676803482898f92abfb3 4949 node-pretty-hrtime_1.0.3-1_i386.buildinfo
+Files:
+ 77afb0ba5f0dda9f3de635da72559301 1201 javascript optional node-pretty-hrtime_1.0.3-1.dsc
+ ab8842bbafb579ee66a6cf32c6510c5a 2671 javascript optional node-pretty-hrtime_1.0.3.orig.tar.gz
+ a4ca7abb11d85547caa120eb8603cd7d 2536 javascript optional node-pretty-hrtime_1.0.3-1.debian.tar.xz
+ d5fabe2b9f51e437b7f5658327881c50 4364 javascript optional node-pretty-hrtime_1.0.3-1_all.deb
+ 2550336c0cd525f2cbe679abe384c856 4949 javascript optional node-pretty-hrtime_1.0.3-1_i386.buildinfo

@@ -1,0 +1,35 @@
+Format: 1.8
+Date: Fri, 05 Jan 2018 21:14:37 +0530
+Source: node-pretty-hrtime
+Binary: node-pretty-hrtime
+Architecture: source all
+Version: 1.0.3-1.3
+Distribution: UNRELEASED
+Urgency: medium
+Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Changed-By: S Midhun Raj  <smidhunraj@gmail.com>
+Description:
+ node-pretty-hrtime - FIX_ME write the Debian package description
+Closes: 12345
+Changes:
+ node-pretty-hrtime (1.0.3-1.3) UNRELEASED; urgency=medium
+ .
+   * Initial release (Closes:12345)
+Checksums-Sha1:
+ e6510e066591523cddcc2901ca9e6b814d780166 1209 node-pretty-hrtime_1.0.3-1.3.dsc
+ b7e3ea42435a4c9b2759d99e0f201eb195802ee1 2671 node-pretty-hrtime_1.0.3.orig.tar.gz
+ 2539dc21390af4976fd447b925365f1f360b7cd4 2536 node-pretty-hrtime_1.0.3-1.3.debian.tar.xz
+ 6960c009886c6099c0f082242f4fc3249ae9a150 4348 node-pretty-hrtime_1.0.3-1.3_all.deb
+ 389018db53dc077c3ed48fde46abff3c1c586f3e 4963 node-pretty-hrtime_1.0.3-1.3_i386.buildinfo
+Checksums-Sha256:
+ 0d27d64b8b0e02814c2255fdba19c83bd4cde7383d3a5a372c2e73dc36064af4 1209 node-pretty-hrtime_1.0.3-1.3.dsc
+ fe1acd5c3d4039669a1516ea12d9f99b187ff5fc55128e151b375d7fb9dc38b2 2671 node-pretty-hrtime_1.0.3.orig.tar.gz
+ d22b4474ec704e7a67b09f8e9d6436340d1014af06b8cb8662ad0e312bc98a8e 2536 node-pretty-hrtime_1.0.3-1.3.debian.tar.xz
+ 4d32207ca551e6ff9446214768f6dff49ab287fc9725bd0cc822b9098e4de506 4348 node-pretty-hrtime_1.0.3-1.3_all.deb
+ 34206a0a779e757fdd46d895988cbd857bbc47dc57a850d251392bd97f82a809 4963 node-pretty-hrtime_1.0.3-1.3_i386.buildinfo
+Files:
+ bb481a8e0a67c3e449f0b1115aa592c6 1209 javascript optional node-pretty-hrtime_1.0.3-1.3.dsc
+ ab8842bbafb579ee66a6cf32c6510c5a 2671 javascript optional node-pretty-hrtime_1.0.3.orig.tar.gz
+ 61742c425a4410ac67926c662cf46063 2536 javascript optional node-pretty-hrtime_1.0.3-1.3.debian.tar.xz
+ 41d3787f9210344eb0fb8c3343271c0d 4348 javascript optional node-pretty-hrtime_1.0.3-1.3_all.deb
+ 541b3be7d25292ba1e9b4dc252e7595e 4963 javascript optional node-pretty-hrtime_1.0.3-1.3_i386.buildinfo

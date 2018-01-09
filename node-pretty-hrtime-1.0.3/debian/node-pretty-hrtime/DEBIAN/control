@@ -1,0 +1,21 @@
+Package: node-pretty-hrtime
+Version: 1.0.3-4
+Architecture: all
+Maintainer: Debian Javascript Maintainers <pkg-javascript-devel@lists.alioth.debian.org>
+Installed-Size: 26
+Depends: nodejs
+Section: javascript
+Priority: optional
+Homepage: https://github.com/robrich/pretty-hrtime
+Description: write the Debian package description
+ Write the short and long descriptions for the Debian package as
+ explained in the Developer's Reference, §6.2.1 – §6.2.3.
+ .
+ You can start with the short upstream package description,
+ “process.hrtime() to words”.
+ .
+ Be aware that most upstream package descriptions are not written to
+ conform with Debian package guidelines. You need to explain the role
+ of this package for a Debian audience.
+ .
+ Node.js is an event-based server-side JavaScript engine.

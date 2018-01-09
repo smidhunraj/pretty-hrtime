@@ -1,0 +1,6 @@
+node-pretty-hrtime (1.0.3-1) unstable; urgency=low
+
+  * Initial release (Closes: #12345)
+
+ -- smidhunraj <smidhunraj@gmail.com>  Thu, 04 Jan 2018 21:36:40 +0530
+
